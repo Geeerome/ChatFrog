@@ -32,7 +32,6 @@ def Time_Now():
     return timenow
 
 
-
 ########################### PYTZ METHOD
 
 def parse_date_time(date_time):

@@ -35,4 +35,4 @@ for line in Lines:
     
     
     except:
-        print("Error Generating MP3, Please check the Internet connection")
+        print("Error Generating MP3, Please check the Internet connection and or directory")

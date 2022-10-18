@@ -1,6 +1,6 @@
 import os
 
-# FILE READER WITH VOICE SPEECH GENERATOR USING GTTS
+
 fileName = 'VoicePrompts.txt'
 
 
